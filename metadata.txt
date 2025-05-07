@@ -1,0 +1,10 @@
+[general]
+name=Geomorphons Landform Classifier
+description=Classify landforms using Geomorphons method from DEM. Compares areas by geomorphon patterns.
+version=2.0
+qgisMinimumVersion=3.16
+author=NA
+email=na@mgri.ru
+about=This plugin classifies terrain using the Geomorphons algorithm and allows comparison of different areas by their geomorphological patterns.
+repository=https://github.com/takarin999/geomorphons-plugin
+tracker=https://github.com/takarin999/geomorphons-plugin/issues
