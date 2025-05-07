@@ -96,7 +96,7 @@
       </widget>
      </item>
      <item>
-      <widget class="QgsMapLayerComboBox" name="compare_layer_combo"/>
+      <widget class="QComboBox" name="compare_layer_combo"/>
      </item>
     </layout>
    </item>
@@ -114,6 +114,16 @@
      </property>
      <property name="enabled">
       <bool>false</bool>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_info">
+     <property name="text">
+      <string>DEM info: not loaded</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
      </property>
     </widget>
    </item>
