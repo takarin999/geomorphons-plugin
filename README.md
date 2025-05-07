@@ -1,2 +1,2 @@
-# geomorph_QGIS_plugin
+# geomorphons-plugin
 Geomorphones plugin for QGIS
